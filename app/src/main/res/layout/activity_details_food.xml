@@ -6,6 +6,8 @@
     android:orientation="horizontal"
     tools:context=".ui.DetailsFood">
 
+
+
     <TextView
         android:id="@+id/text_name"
         android:layout_width="0dp"
